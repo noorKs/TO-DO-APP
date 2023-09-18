@@ -1,3 +1,4 @@
+alert("Heh simm.. you are the first One who is going to start this App by Using..My lucky Charm..!")
 const input = document.getElementById('input-box')
 const list = document.getElementById('list-container')
 
